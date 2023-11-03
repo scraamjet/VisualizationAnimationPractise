@@ -1,0 +1,18 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/ic_baseline_text_format_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_text_rotate_up_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_text_rotate_vertical_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_text_rotation_angleup_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_text_rotation_none_24"
+        android:duration="100" />
+</animation-list>

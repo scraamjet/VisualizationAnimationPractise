@@ -1,0 +1,38 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/ic_baseline_10mp_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_11mp_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_12mp_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_13mp_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_14mp_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_15mp_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_16mp_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_17mp_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_18mp_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_19mp_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_baseline_20mp_24"
+        android:duration="100" />
+
+    <!-- Add as many frames as needed -->
+</animation-list>
